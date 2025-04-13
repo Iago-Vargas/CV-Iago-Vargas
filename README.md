@@ -16,8 +16,8 @@ Tenho projetos próprios como um **sistema de restaurante com sockets** e uma **
 
 ## 📥 Currículo em PDF
 
-- [Visualizar currículo no GitHub](https://github.com/Iago-Vargas/CV-Iago-Vargas/blob/main/CV_Iago_Vargas.pdf)
-- [Baixar diretamente o PDF](https://github.com/Iago-Vargas/CV-Iago-Vargas/raw/main/CV_Iago_Vargas.pdf)
+- [Visualizar currículo no GitHub](https://github.com/Iago-Vargas/CV-Iago-Vargas/CV_Iago_Vargas.pdf)
+- [Baixar diretamente o PDF](https://github.com/Iago-Vargas/CV-Iago-Vargas/CV_Iago_Vargas.pdf)
 
 ## 🌐 Contato
 
